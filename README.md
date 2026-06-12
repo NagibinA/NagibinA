@@ -6,6 +6,9 @@
 [![openHAB](https://img.shields.io/badge/openHAB-E64A19?logo=openhab&logoColor=white)](https://www.openhab.org/)
 [![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5E2B97?logo=.net&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
 [![ESPEasy](https://img.shields.io/badge/ESPEasy-000000?logo=esphome&logoColor=white)](https://espeasy.readthedocs.io/)
+[![BAS-IP](https://img.shields.io/badge/BAS--IP-D12023?logo=smart&logoColor=white)](https://bas-ip.ru/)
+[![Armbian](https://img.shields.io/badge/Armbian-3AAED3?logo=armbian&logoColor=white)](https://www.armbian.com/)
+
 
 ## 🧠 О себе
 
