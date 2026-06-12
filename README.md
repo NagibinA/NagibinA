@@ -3,6 +3,9 @@
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?logo=home-assistant&logoColor=white)](https://www.home-assistant.io/)
 [![ESPHome](https://img.shields.io/badge/ESPHome-000000?logo=esphome&logoColor=white)](https://esphome.io/)
 [![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![openHAB](https://img.shields.io/badge/openHAB-E64A19?logo=openhab&logoColor=white)](https://www.openhab.org/)
+[![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5E2B97?logo=.net&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
+[![ESPEasy](https://img.shields.io/badge/ESPEasy-000000?logo=esphome&logoColor=white)](https://espeasy.readthedocs.io/)
 
 ## 🧠 О себе
 
