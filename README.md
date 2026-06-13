@@ -11,6 +11,7 @@
 [![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?logo=nodered&logoColor=white)](https://nodered.org/)
 
 [![MQTT](https://img.shields.io/badge/MQTT-8F0000?logo=mqtt&logoColor=white)](https://mqtt.org/)
+[![Zigbee2MQTT](https://img.shields.io/badge/Zigbee2MQTT-FFC038?logo=zigbee2mqtt&logoColor=white)](https://zigbee2mqtt.io/)
 
 [![FreeCAD](https://img.shields.io/badge/FreeCAD-418FDE)](https://www.freecad.org/)
 
