@@ -42,6 +42,7 @@
 | **[Orion2Mqtt](https://github.com/NagibinA/Orion2Mqtt)** | Управление устройствами Bolid через MQTT |
 | **[iTAG-Home-Assistant-Integration](https://github.com/NagibinA/iTAG-Home-Assistant-Integration)** | Отслеживание BLE-брелоков iTAG |
 | **[iTAG-ESPHOME](https://github.com/NagibinA/iTAG-ESPHOME)** | Прошивка для отслеживания iTAG через ESP32 |
+| **[Pulse-Counter-Manager]( https://github.com/NagibinA/Pulse-Counter-Manager)** | Интеграция импульсных счетчиков |
 
 ---
 
