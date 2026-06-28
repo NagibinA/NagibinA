@@ -36,6 +36,7 @@
 
 | Проект | Описание |
 |--------|----------|
+| **[BAS-IP AV-03BD](https://github.com/NagibinA/BAS-IP_AV-03BD)** | Управления IP-домофоном BAS-IP через Home Assistant |
 | **[Bianca](https://github.com/NagibinA/Bianca)** | Управление стиральной машиной Candy Bianca через Home Assistant |
 | **[ha-ujin-aqua-sense](https://github.com/NagibinA/ha-ujin-aqua-sense)** | Интеграция для устройств Ujin Aqua Sense |
 | **[esphome-ujin](https://github.com/NagibinA/esphome-ujin)** | Интеграция устройств Ujin в ESPHome |
