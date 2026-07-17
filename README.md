@@ -36,6 +36,7 @@
 
 | Проект | Описание |
 |--------|----------|
+| **[HA Shutter Card](https://github.com/NagibinA/ha-shutter-card)** |Карточка жалюзи с камерой|
 | **[BAS-IP AV-03BD](https://github.com/NagibinA/BAS-IP_AV-03BD)** | Управления IP-домофоном BAS-IP через Home Assistant |
 | **[Bianca](https://github.com/NagibinA/Bianca)** | Управление стиральной машиной Candy Bianca через Home Assistant |
 | **[ha-ujin-aqua-sense](https://github.com/NagibinA/ha-ujin-aqua-sense)** | Интеграция для устройств Ujin Aqua Sense |
